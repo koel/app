@@ -1,5 +1,6 @@
 koel app
 ==============
+<img src="https://play-lh.googleusercontent.com/-ddGj7qhEDt-Pa_MTIJWJJnfNlg7eZQJcBXpr3qwcEbOZaOdTrQYF71iKUJNHnLsOrc=w240-h480-rw" srcset="https://play-lh.googleusercontent.com/-ddGj7qhEDt-Pa_MTIJWJJnfNlg7eZQJcBXpr3qwcEbOZaOdTrQYF71iKUJNHnLsOrc=w480-h960-rw 2x" class="T75of nm4vBd" aria-hidden="true" alt="Icon image" itemprop="image" data-atf="false" data-iml="1249">
 
 The official desktop application for [Koel](https://github.com/phanan/koel), built on [Electron](http://electron.atom.io/).
 
