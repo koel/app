@@ -17,6 +17,6 @@ yarn build # for a cool app
 
 The project got its boilerplate from [electron-vue](https://github.com/SimulatedGREG/electron-vue) with some modifications, so head there for in-depth instructions.
 
-## Notes
+## Notes to read
 
 * Only tested on macOS High Siera so far, since that's the only OS I have.
